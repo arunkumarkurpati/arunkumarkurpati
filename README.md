@@ -1,10 +1,10 @@
 <!-- Animated header and visitor counter -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Arun+Kumar+Kurpati;Molecular+Biologist+%7C+Bioinformatics+Researcher;Medical+Informatics+%26+Healthcare+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Arun+Kumar+Kurpati;Molecular+Biologist+%7C+Bioinformatics+Researcher;Associate+Quality+Specialist+%7C+Abbott+Laboratories;Forensic+Genomics+%7C+RNA-Seq+%7C+Medical+Informatics" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arun434-star&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arunkumarkurpati&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ Recent projects include SARS-CoV-2 variant analysis using retrospective datasets
 - 🔬 Experience in forensic DNA fingerprinting (STR genotyping, capillary electrophoresis, GeneMapper IDX) and chain-of-custody documentation.
 - 🧬 Hands-on molecular biology and cell culture: PCR/qPCR, DNA/RNA extraction, protein expression, and mammalian cell-based assays.
 - 💊 Quality & compliance: GMP, GLP, ISO/IEC 17025, QA/QC systems, SOPs, CAPA support, and audit-ready documentation.
-- 📊 Strong interest in bioinformatics, medical informatics, and healthcare data analytics for translational research and decision support.
+- 📊 Strong interest in bioinformatics, medical informatics, and genomic data analysis for translational research.
 
 ---
 
@@ -70,15 +70,15 @@ Recent projects include SARS-CoV-2 variant analysis using retrospective datasets
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arun434-star&show_icons=true&theme=tokyonight&hide_border=true" alt="Arun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunkumarkurpati&show_icons=true&theme=tokyonight&hide_border=true" alt="Arun's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun434-star&theme=tokyonight&hide_border=true" alt="Arun's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarkurpati&theme=tokyonight&hide_border=true" alt="Arun's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun434-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarkurpati&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Recent projects include SARS-CoV-2 variant analysis using retrospective datasets
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arun434-star&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arunkumarkurpati&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ Recent projects include SARS-CoV-2 variant analysis using retrospective datasets
 
 - SARS-CoV-2 variant analysis and outcomes using retrospective datasets (AHRQ and public genomic databases).
 - Genomics and multi-omics approaches in neurodegenerative disorders for biomarker discovery and risk stratification.
-- Bridging molecular biology, forensic genomics, and medical informatics to support translational research and healthcare decision-making.
+- Bridging molecular biology, forensic genomics, and medical informatics to support translational research.
 
 ---
 
@@ -104,7 +104,7 @@ Recent projects include SARS-CoV-2 variant analysis using retrospective datasets
 I'm open to collaborations on:
 
 - Bioinformatics pipelines (especially RNA-Seq and clinical genomics).
-- Healthcare data analytics and medical informatics projects.
+- Medical informatics and genomic data analysis projects.
 - Forensic genomics, STR profiling workflows, and quality-driven laboratory informatics.
 
 Feel free to reach out via LinkedIn or GitHub issues if you'd like to discuss research ideas, data-driven projects, or potential collaborations.
